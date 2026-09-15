@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "data": "2026-03-10",
+    "paciente": "Choi San",
+    "peso": 62.0,
+    "altura": 1.75,
+    "imc": 23.88
+  },
+  {
+    "id": 2,
+    "data": "2026-03-11",
+    "paciente": "myung jaehyun",
+    "peso": 53.0,
+    "altura": 1.77,
+    "imc": 26.23
+  },
+  {
+    "id": 3,
+    "data": "2026-03-12",
+    "paciente": "Lee Heeseung",
+    "peso": 64.0,
+    "altura": 1.81,
+    "imc": 20.31
+  }
+]
